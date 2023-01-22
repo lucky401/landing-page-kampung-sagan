@@ -16,7 +16,8 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: process.env.npm_package_description || '',
+        content:
+          'Website landing page kampung sagan yang diakses oleh masyarakat luas untuk memperkenalkan kampung sagan',
       },
       { name: 'format-detection', content: 'telephone=no' },
     ],
