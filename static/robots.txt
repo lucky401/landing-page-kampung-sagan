@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /search
 Allow: /
-Sitemap: https://landing-page-kampung-sagan.vercel.app/sitemap.xml
+Sitemap: https://kampung-sagan.vercel.app/sitemap.xml

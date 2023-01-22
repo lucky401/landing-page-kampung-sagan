@@ -66,7 +66,7 @@ export default {
 
   // Sitemap module configuration: https://sitemap.nuxtjs.org/guide/options
   sitemap: {
-    hostname: 'https://landing-page-kampung-sagan.vercel.app/',
+    hostname: 'https://kampung-sagan.vercel.app/',
     gzip: true,
   },
 
