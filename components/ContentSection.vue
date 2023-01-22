@@ -1,6 +1,6 @@
 <template>
   <v-sheet max-width="1218px" class="mx-auto">
-    <v-row>
+    <v-row class="mx-0">
       <v-col order="2" cols="12" md="6">
         <v-card class="pa-2" tile flat>
           <v-card-title> {{ title }} </v-card-title>
@@ -14,7 +14,14 @@
         cols="12"
         md="6"
       >
-        <v-card tile flat height="100%" class="pa-2" :img="img" />
+        <v-card
+          tile
+          flat
+          height="100%"
+          min-height="300px"
+          class="pa-2"
+          :img="img"
+        />
       </v-col>
     </v-row>
   </v-sheet>

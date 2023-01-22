@@ -20,7 +20,6 @@ export default {
   },
   methods: {
     changeTitleColorAfterScrollMoreThan100VH() {
-      const navbarTitle = document.querySelector('.navbar__title');
       const navbar = document.querySelector('.navbar');
       const vh = window.innerHeight;
       const navbarHeight = navbar.clientHeight;
@@ -29,11 +28,9 @@ export default {
         const scrollHeight = window.scrollY;
 
         if (scrollHeight > vh - navbarHeight) {
-          navbar.style.backgroundColor = 'rgba(255, 255, 255, 0.5)';
-          navbarTitle.style.color = '#000';
+          navbar.style.backgroundColor = 'rgb(0 0 0 / 40%)';
         } else {
           navbar.style.backgroundColor = 'transparent';
-          navbarTitle.style.color = '#fff';
         }
       });
     },
@@ -42,13 +39,9 @@ export default {
 </script>
 
 <style>
-.navbar,
-.v-toolbar__content {
-  background: transparent !important;
-}
-
 .navbar .v-toolbar__content {
   justify-content: center;
+  background: transparent;
 }
 
 .navbar__title {

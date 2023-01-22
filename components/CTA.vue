@@ -1,6 +1,6 @@
 <template>
   <v-sheet max-width="1218px" class="mx-auto">
-    <v-row>
+    <v-row class="mx-0">
       <v-col v-for="(content, i) in contents" :key="i" cols="12" md="6">
         <v-card class="CTA" tile flat :img="content.img">
           <div class="CTA__overlay">

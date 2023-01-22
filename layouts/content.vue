@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <NavbarForLandingPage />
+    <NavbarForContent />
     <v-main>
       <Nuxt />
     </v-main>
@@ -9,6 +9,6 @@
 
 <script>
 export default {
-  name: 'DefaultLayout',
+  name: 'ContentLayout',
 };
 </script>

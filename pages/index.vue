@@ -57,7 +57,7 @@
       class="mb-16"
       background-image="/assets/DASDSADSA.jpeg"
       show-caption
-      height="500px"
+      height="800px"
     >
       <v-sheet color="transparent" max-width="452" class="pa-4 ml-auto">
         <blockquote class="caption">
