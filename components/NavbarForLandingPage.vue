@@ -15,36 +15,25 @@
 <script>
 export default {
   name: 'NavbarComponent',
-  mounted() {
-    this.changeTitleColorAfterScrollMoreThan100VH();
-  },
-  methods: {
-    changeTitleColorAfterScrollMoreThan100VH() {
-      const navbar = document.querySelector('.navbar');
-      const vh = window.innerHeight;
-      const navbarHeight = navbar.clientHeight;
-
-      window.addEventListener('scroll', () => {
-        const scrollHeight = window.scrollY;
-
-        if (scrollHeight > vh - navbarHeight) {
-          navbar.style.backgroundColor = 'rgb(0 0 0 / 40%)';
-        } else {
-          navbar.style.backgroundColor = 'transparent';
-        }
-      });
-    },
-  },
 };
 </script>
 
 <style>
-.navbar .v-toolbar__content {
-  justify-content: center;
-  background: transparent;
+.navbar {
+  background: transparent !important;
+  transition: background-color 0.5s ease;
 }
 
-.navbar__title {
+.navbar .v-toolbar__content {
+  justify-content: center;
+  background: transparent !important;
+}
+
+.navbar.v-app-bar--is-scrolled {
+  background: rgb(0 0 0 / 40%) !important;
+}
+
+.navbar .navbar__title {
   font-size: 3rem !important;
   font-weight: 700;
   color: #fff;
