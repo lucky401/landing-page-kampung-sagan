@@ -30,6 +30,15 @@
             />
           </v-col>
         </v-row>
+        <v-row>
+          <v-col cols="12">
+            <v-alert icon="mdi-information-outline" prominent text type="info">
+              Data ini diambil oleh tim KKN-PPM UGM 2022/2023 yang di pimpin
+              oleh Natael Kevin Adiyatma Wibawa dan dibantu oleh mahasiswa
+              lainnya pada bulan Januari 2023 di RW 09 Kampung Sagan.
+            </v-alert>
+          </v-col>
+        </v-row>
         <v-row class="mb-16">
           <v-col cols="12" md="3">
             <v-card outlined>

@@ -36,7 +36,7 @@ export const businessByRTPieChart = {
   series: [1, 11, 4, 2],
   chartOptions: {
     chart: {
-      width: 380,
+      width: '100%',
       type: 'pie',
     },
     labels: ['RT 41', 'RT 42', 'RT 43', 'RT 44'],
@@ -60,6 +60,7 @@ export const HowLongBusinessHasExistedPolarChart = {
   series: [1, 2, 5, 4, 2, 5],
   chartOptions: {
     chart: {
+      width: '100%',
       type: 'polarArea',
     },
     stroke: {
@@ -89,6 +90,7 @@ export const businessSourceOfCapitalPieChart = {
   series: [19],
   chartOptions: {
     chart: {
+      width: '100%',
       type: 'donut',
     },
     legend: {
@@ -117,6 +119,7 @@ export const businessThatUsingCommerceRadarChart = {
   ],
   chartOptions: {
     chart: {
+      width: '100%',
       height: 350,
       type: 'radar',
     },
