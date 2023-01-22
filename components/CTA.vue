@@ -22,12 +22,12 @@ export default {
       type: Array,
       default: () => [
         {
-          link: '#',
+          link: 'umkm',
           img: '/assets/umkm.jpeg',
           title: 'UMKM',
         },
         {
-          link: '#',
+          link: 'media',
           img: '/assets/belajar.jpeg',
           title: 'Media Pembelajaran',
         },

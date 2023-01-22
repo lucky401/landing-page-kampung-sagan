@@ -6,12 +6,18 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - Kampung Sagan',
+    titleTemplate: (title) => {
+      return title ? `${title} - Kampung Sagan` : 'Kampung Sagan';
+    },
     title: 'Kampung Sagan',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      {
+        hid: 'description',
+        name: 'description',
+        content: process.env.npm_package_description || '',
+      },
       { name: 'format-detection', content: 'telephone=no' },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
@@ -21,7 +27,10 @@ export default {
   css: [],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [],
+  plugins: [
+    '~/plugins/convert',
+    { src: '~/plugins/vue-apexchart', ssr: false },
+  ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
@@ -44,6 +53,8 @@ export default {
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+    // https://sitemap.nuxtjs.org/
+    '@nuxtjs/sitemap',
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
@@ -52,10 +63,20 @@ export default {
     baseURL: '/',
   },
 
+  // Sitemap module configuration: https://sitemap.nuxtjs.org/guide/options
+  sitemap: {
+    hostname: 'https://landing-page-kampung-sagan.vercel.app/',
+    gzip: true,
+  },
+
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
     manifest: {
-      lang: 'en',
+      name: 'Kampung Sagan',
+      short_name: 'Sagan',
+      lang: 'id',
+      display: 'standalone',
+      theme_color: '#ffffff',
     },
   },
 
@@ -65,6 +86,7 @@ export default {
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
   vuetify: {
     customVariables: ['~/assets/variables.scss'],
+    treeShake: true,
     theme: {
       dark: false,
       themes: {
@@ -82,5 +104,8 @@ export default {
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
-  build: {},
+  build: {
+    extractCSS: true,
+    optimizeCSS: true,
+  },
 };
