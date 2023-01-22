@@ -20,6 +20,10 @@ export default {
           'Website landing page kampung sagan yang diakses oleh masyarakat luas untuk memperkenalkan kampung sagan',
       },
       { name: 'format-detection', content: 'telephone=no' },
+      {
+        name: 'google-site-verification',
+        content: 'SpfmYhVfyToa7h42EQkCvgYh_98cEWYc2R50yiQcaE4',
+      },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
