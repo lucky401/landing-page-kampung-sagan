@@ -132,7 +132,7 @@
             </div>
             <ApexChart
               type="bar"
-              height="100%"
+              height="350"
               :options="UMKM_DATA.businessTypeColumnChart.chartOptions"
               :series="UMKM_DATA.businessTypeColumnChart.series"
             />
@@ -148,7 +148,7 @@
             </div>
             <ApexChart
               type="pie"
-              width="100%"
+              height="350"
               :options="UMKM_DATA.businessByRTPieChart.chartOptions"
               :series="UMKM_DATA.businessByRTPieChart.series"
             />
@@ -166,7 +166,7 @@
             </div>
             <ApexChart
               type="polarArea"
-              width="100%"
+              height="350"
               :options="
                 UMKM_DATA.HowLongBusinessHasExistedPolarChart.chartOptions
               "
@@ -184,7 +184,7 @@
             </div>
             <ApexChart
               type="donut"
-              width="100%"
+              height="350"
               :options="UMKM_DATA.businessSourceOfCapitalPieChart.chartOptions"
               :series="UMKM_DATA.businessSourceOfCapitalPieChart.series"
             />
@@ -200,7 +200,7 @@
             </div>
             <ApexChart
               type="radar"
-              width="100%"
+              height="350"
               :options="
                 UMKM_DATA.businessThatUsingCommerceRadarChart.chartOptions
               "
@@ -220,7 +220,7 @@
             </div>
             <ApexChart
               type="bar"
-              height="100%"
+              height="350"
               :options="UMKM_DATA.businessByIncomeColumnChart.chartOptions"
               :series="UMKM_DATA.businessByIncomeColumnChart.series"
             />
@@ -236,7 +236,7 @@
             </div>
             <ApexChart
               type="pie"
-              width="100%"
+              height="350"
               :options="UMKM_DATA.businessHaveCommunityPieChart.chartOptions"
               :series="UMKM_DATA.businessHaveCommunityPieChart.series"
             />
