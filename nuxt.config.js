@@ -35,6 +35,7 @@ export default {
   plugins: [
     '~/plugins/convert',
     { src: '~/plugins/vue-apexchart', ssr: false },
+    { src: '~/plugins/vercel.js', mode: 'client' },
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
