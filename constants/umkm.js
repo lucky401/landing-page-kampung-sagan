@@ -43,16 +43,6 @@ export const businessByRTPieChart = {
     legend: {
       position: 'bottom',
     },
-    responsive: [
-      {
-        breakpoint: 480,
-        options: {
-          chart: {
-            width: 200,
-          },
-        },
-      },
-    ],
   },
 };
 
@@ -73,16 +63,6 @@ export const HowLongBusinessHasExistedPolarChart = {
     legend: {
       position: 'bottom',
     },
-    responsive: [
-      {
-        breakpoint: 480,
-        options: {
-          chart: {
-            width: 200,
-          },
-        },
-      },
-    ],
   },
 };
 
@@ -97,16 +77,6 @@ export const businessSourceOfCapitalPieChart = {
       position: 'bottom',
     },
     labels: ['Tabungan Pribadi', 'Mitra Kerjasama'],
-    responsive: [
-      {
-        breakpoint: 480,
-        options: {
-          chart: {
-            width: 200,
-          },
-        },
-      },
-    ],
   },
 };
 
