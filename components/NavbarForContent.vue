@@ -1,6 +1,8 @@
 <template>
   <v-app-bar app fixed elevation="0" class="navbar__content">
-    <v-toolbar-title class="navbar__title">Kampung Sagan</v-toolbar-title>
+    <nuxt-link to="/">
+      <v-toolbar-title class="navbar__title"> Kampung Sagan </v-toolbar-title>
+    </nuxt-link>
   </v-app-bar>
 </template>
 
