@@ -13,49 +13,45 @@
         <v-sheet color="transparent" max-width="452" class="pa-4">
           <blockquote class="caption">
             <p class="mb-4 caption__text">
-              The people of Kampung Sagan in Yogyakarta, Indonesia are known for
-              their strong sense of community and rich cultural heritage,
-              especially traditional crafts like batik, pottery and silver
-              works, and for preserving traditional customs and practices. They
-              also have strong social and economic ties and are known for their
-              friendly and welcoming nature.
+              Masyarakat Kampung Sagan Yogyakarta adalah komunitas pedesaan yang
+              terdiri dari keluarga-keluarga lokal yang hidup bersama-sama dan
+              saling menunjukkan rasa peduli. Mereka menjalankan tradisi dan
+              budaya yang kuat dan mempertahankan nilai-nilai kekeluargaan dan
+              kerjasama. Masyarakat Kampung Sagan Yogyakarta terkenal dengan
+              kerajinanya membuat usaha kecil-kecilan seperti burjo, sembako,
+              tempat makan dan lain-lain.
             </p>
-            <h3 class="caption__tittle">ChatGPT – Open AI</h3>
           </blockquote>
         </v-sheet>
       </Hero>
       <ContentSection
         class="mb-16"
         content-position="left"
-        title="How do we regenerate for a better life?"
+        title="Kampung Sagan Yogyakarta"
         img="/assets/sosialisasi_qris.jpeg"
       >
         <p>
-          By following our regenerative framework our human centric approach
-          ensures the best solutions for people and planet.
+          Kampung Sagan Yogyakarta adalah sebuah kampung tradisional yang
+          memiliki keunikan tersendiri, seperti rumah-rumah berdepetan,
+          jalan-jalan sempit, dan masyarakat yang hidup rukun dan damai
         </p>
         <p>
-          From design, to creation, to living, working with science and nature,
-          we follow a circular process to future proof and create legacy.
+          <b>Bentuk kampung-</b> Kampung Sagan memiliki bentuk kampung
+          tradisional dengan jalan-jalan sempit dan rumah-rumah yang
+          berdempetan. Konsep kampung ini masih mempertahankan nilai-nilai
+          kekeluargaan dan kerjasama.
         </p>
         <p>
-          <b>Design to Regenerate-</b> Working with science and nature in an
-          integrated approach we take time to understand your vision and the
-          needs of the end user to ensure the best project outcome.
+          <b>Budaya dan tradisi–</b>Budaya dan tradisi Kampung Sagan masih kuat,
+          seperti kegiatan ibu-ibu PKK, gotong royong, dan posyandu. Masyarakat
+          Kampung Sagan juga terdiri dari beragam suku dan agama, namun mereka
+          hidup rukun dan damai seperti keluarga besar.
         </p>
         <p>
-          <b>Create to Circulate–</b>Following the circular economy model, our
-          workshop enables us to make regenerative solutions. Using non
-          polluting materials, we are ensuring waste is eradicated, and a system
-          of reuse, repair, repurposing, and recycling is attained that reduces
-          carbon emissions.
-        </p>
-        <p>
-          <b>Live to Flourish–</b> 90% of our time is spent indoors so it is
-          important that we design our living spaces to ensure increased health,
-          to stimulate creativity, comfort, wellness and encourage positive
-          behaviour. We can help you achieve this and continue to ensure that
-          your wellness is supported after the project has completed.
+          <b>Pentingnya Kampung Sagan–</b> Kampung Sagan memiliki peranan
+          Penting dalam kehidupan masyarakat sekitar, karena lokasinya yang
+          dekat sekali dengan kampus besar seperti UGM. kampung ini juga
+          memiliki potensi yang sangat besar untuk dikembangkan.
         </p>
       </ContentSection>
       <Hero
@@ -67,14 +63,15 @@
         <v-sheet color="transparent" max-width="452" class="pa-4 ml-auto">
           <blockquote class="caption">
             <p class="mb-4 caption__text">
-              The people of Kampung Sagan in Yogyakarta, Indonesia are known for
-              their strong sense of community and rich cultural heritage,
-              especially traditional crafts like batik, pottery and silver
-              works, and for preserving traditional customs and practices. They
-              also have strong social and economic ties and are known for their
-              friendly and welcoming nature.
+              Kampung Sagan Yogyakarta memiliki potensi yang luar biasa dalam
+              bidang <i>hospitality</i>. Keunikan dan keasrian lingkungan
+              kampung, serta pertahanan budaya dan tradisi yang kuat, menjadikan
+              Kampung Sagan kampung yang menarik bagi mahasiswa nasionial maupun
+              internasional. Selain itu, potensi usaha UMKM juga terbuka luas,
+              terutama dalam bidang kuliner dan kerajinan tradisional.
+              Pemerintah setempat dapat memanfaatkan potensi ini untuk
+              mengembangkan <i>hospitality</i> dan ekonomi setempat.
             </p>
-            <h3 class="caption__tittle">ChatGPT – Open AI</h3>
           </blockquote>
         </v-sheet>
       </Hero>

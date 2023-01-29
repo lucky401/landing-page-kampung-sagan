@@ -2,11 +2,11 @@
   <v-sheet tag="section" max-width="800px" class="text-center mx-auto">
     <blockquote class="caption">
       <p class="mb-4 caption__text">
-        Visiting Kampung Sagan was like stepping back in time, the traditional
-        wooden houses and the locals still practicing their customs and skills,
-        made for a truly authentic cultural experience
+        Mengunjungi Kampung Sagan memiliki keunikan tersendiri, seperti
+        rumah-rumah yang berjejer-jejer, jalan-jalan sempit, dan masyarakat yang
+        hidup rukun dan damai.
       </p>
-      <h3 class="caption__tittle">ChatGPT – Open AI</h3>
+      <h3 class="caption__tittle">Kevin – Tim KKN PPM UGM 2022/2023</h3>
     </blockquote>
   </v-sheet>
 </template>
@@ -22,7 +22,7 @@ export default {
 .caption__tittle {
   font-size: 18px;
   line-height: 1.5;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .caption__text {

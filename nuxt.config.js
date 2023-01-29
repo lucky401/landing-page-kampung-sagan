@@ -17,7 +17,7 @@ export default {
         hid: 'description',
         name: 'description',
         content:
-          'Website landing page kampung sagan yang diakses oleh masyarakat luas untuk memperkenalkan kampung sagan',
+          'Pada jaman penjajahan belanda tahun 1445, Nyai dan Kiyai Sak di kejar oleh Belanda dari kerajaan Demak Bintoro sampai ke Jogja dan tinggal di daerah yang saat ini kita sebut Kampung Sagan sampai meninggal dan menjadi cikal bakal Kampung Sagan.',
       },
       { name: 'format-detection', content: 'telephone=no' },
       {
