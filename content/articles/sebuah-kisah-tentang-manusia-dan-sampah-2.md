@@ -1,9 +1,11 @@
 ---
-title: Sebuah Kisah Tentang Manusia dan Sampah 2
-description: Alkisah, ada sebuah desa kecil bernama Lembah Hijau. Penduduk Lembah
-  Hijau hidup sederhana, dikelilingi oleh hutan hijau yang rimbun, perbukitan, dan
-  sungai yang berkilauan. Mereka adalah komunitas yang bahagia dan damai, selalu bekerja
-  sama untuk membuat desa mereka menjadi tempat yang lebih baik.
+title: 'Pentingnya Memilah Sampah: Langkah-Langkah nya!'
+description: Memilah sampah rumah tangga merupakan langkah penting dalam mempromosikan
+  kehidupan yang berkelanjutan dan mengurangi jumlah sampah yang dikirim ke tempat
+  pembuangan sampah. Dengan pertumbuhan populasi dan peningkatan konsumsi, semakin
+  penting untuk memastikan bahwa sampah rumah tangga dipilah dan didaur ulang dengan
+  benar. Proses ini tidak hanya membantu mengurangi limbah tetapi juga menghemat sumber
+  daya, mengurangi polusi, dan melindungi lingkungan.
 author: Natanael Kevin A (457645)
 image: "/assets/kevin_1.png"
 
