@@ -8,29 +8,48 @@ author: Natanael Kevin A (457645)
 image: "/assets/kevin_1.png"
 
 ---
-# Sebuah Kisah Tentang Manusia dan Sampah
+Dimana anda bisa mempelajari lebih banyak tentang pemilahan sampah di Jogja?
 
 By Natanael Kevin A (457645)
 
-![](/images/kevin_1.png)
+Situs web pemerintah: Banyak situs web pemerintah memberikan informasi tentang pemilahan dan daur ulang limbah rumah tangga yang benar, seperti website DLH (Dinas Lingkungan Hidup). Disini, anda bisa menemukan berbagai informasi terkait topik pemilahan sampah!
 
-Alkisah, ada sebuah desa kecil bernama Lembah Hijau. Penduduk Lembah Hijau hidup sederhana, dikelilingi oleh hutan hijau yang rimbun, perbukitan, dan sungai yang berkilauan. Mereka adalah komunitas yang bahagia dan damai, selalu bekerja sama untuk membuat desa mereka menjadi tempat yang lebih baik.
+Link Referensi:
 
-Namun, seiring pertumbuhan desa, jumlah sampah yang dihasilkan oleh warganya juga meningkat. Masyarakat Lembah Hijau mulai menyadari bahwa limbah mereka mempengaruhi keindahan dan kemurnian tanah mereka. Sungai yang dulu berkilau kini keruh dan penuh sampah, dan hutan hijau subur digantikan tumpukan sampah.
+[https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjiloSwxez8AhUVFrcAHZ6uAecQFnoECAsQAQ&url=https%3A%2F%2Flingkunganhidup.jogjakota.go.id%2Fpage%2Findex%2Fbidang-pengelolaan-persampahan&usg=AOvVaw13Ysll454yLjVBCneGq7L3](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjiloSwxez8AhUVFrcAHZ6uAecQFnoECAsQAQ&url=https%3A%2F%2Flingkunganhidup.jogjakota.go.id%2Fpage%2Findex%2Fbidang-pengelolaan-persampahan&usg=AOvVaw13Ysll454yLjVBCneGq7L3 "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjiloSwxez8AhUVFrcAHZ6uAecQFnoECAsQAQ&url=https%3A%2F%2Flingkunganhidup.jogjakota.go.id%2Fpage%2Findex%2Fbidang-pengelolaan-persampahan&usg=AOvVaw13Ysll454yLjVBCneGq7L3")
 
-![](/images/kevin_2.png)
+Perusahaan Pengelola Sampah: Perusahaan pengelola sampah lokal sering memberikan pedoman dan sumber daya untuk memilah dan mendaur ulang sampah rumah tangga. Cobalah check di media sosial kalian ataupun internet tentang perusahaan-perusahan ini!
 
-Penduduk desa sangat prihatin tentang dampak limbah mereka terhadap lingkungan dan kesehatan mereka. Mereka tahu bahwa mereka perlu mengambil tindakan untuk mengatasi masalah ini. Maka, mereka membentuk panitia untuk mencari solusi.
+Link Referensi:
 
-  
-![](/images/kevin_3.png)
+[https://glints.com/id/lowongan/startup-pengelola-sampah/](https://glints.com/id/lowongan/startup-pengelola-sampah/ "https://glints.com/id/lowongan/startup-pengelola-sampah/")
 
-Panitia mengusulkan rencana untuk memilah dan mendaur ulang sampah rumah tangga. Mereka mengajak warga Lembah Hijau untuk memilah sampah mereka menjadi beberapa kategori, seperti sampah kertas, kaca, plastik, dan makanan. Mereka juga menyiapkan tempat sampah daur ulang di sekitar desa untuk memudahkan masyarakat mendaur ulang sampah mereka.
+[https://www.idntimes.com/life/diy/nissa-abdillah/komunitas-pengelola-sampah-di-jakarta-c1c2](https://www.idntimes.com/life/diy/nissa-abdillah/komunitas-pengelola-sampah-di-jakarta-c1c2 "https://www.idntimes.com/life/diy/nissa-abdillah/komunitas-pengelola-sampah-di-jakarta-c1c2")
 
-![](/images/kevin_4.png)
+Pusat Daur Ulang: Beberapa pusat daur ulang menawarkan materi pendidikan dan lokakarya tentang metode pemilahan dan daur ulang limbah yang tepat. Saat ini, Indonesia sudah menjalankan sistem bank sampah di berbagai pusat pemukiman, cobalah cari tahu tentang Bank Sampah di lingkungan kalian!
 
-Orang-orang di Lembah Hijau bertekad untuk membuat perbedaan dan segera, usaha mereka membuahkan hasil. Sungai-sungai yang dulu keruh kini jernih, tumpukan sampah menghilang, dan hutan hijau subur kembali tumbuh subur. Penduduk desa bangga dengan apa yang telah mereka capai dan berterima kasih atas dampak positifnya terhadap kesehatan dan lingkungan mereka.
+Link Referensi:
 
-![](/images/kevin_5.png)
+[https://pslb3.menlhk.go.id/portal/read/peresmian-pusat-daur-ulang-dan-rumah-kompos-di-5-daerah-di-indonesia-1660017832](https://pslb3.menlhk.go.id/portal/read/peresmian-pusat-daur-ulang-dan-rumah-kompos-di-5-daerah-di-indonesia-1660017832 "https://pslb3.menlhk.go.id/portal/read/peresmian-pusat-daur-ulang-dan-rumah-kompos-di-5-daerah-di-indonesia-1660017832")
 
-Sejak hari itu, penduduk Lembah Hijau terus memilah dan mendaur ulang sampah mereka, dan desa mereka tetap menjadi komunitas yang indah dan berkembang dari generasi ke generasi. Mereka telah belajar bahwa pemborosan bukan hanya masalah, tetapi kesempatan untuk melindungi tanah, kesehatan, dan masa depan mereka. Jadi, kisah Lembah Hijau berfungsi sebagai pengingat bagi semua orang bahwa tindakan kita, sekecil apa pun, dapat berdampak besar pada dunia di sekitar kita.
+[https://zerowaste.id/peta-minim-sampah/](https://zerowaste.id/peta-minim-sampah/ "https://zerowaste.id/peta-minim-sampah/")
+
+Organisasi Nirlaba atau Non-profit: Organisasi nirlaba seperti AZWI (Aliansi Zero Waste Indonesia) dan Indonesia Solid Waste Association (InSWA) menyediakan informasi dan sumber daya tentang pengurangan, penggunaan kembali, dan daur ulang limbah. Mereka juga memiliki berbagai kesempatan untuk bekerjasama dalam topik ini!
+
+Link Referensi:
+
+[http://inswa.or.id](http://inswa.or.id "http://inswa.or.id") (INSWA)
+
+[https://www.adupi.org](https://www.adupi.org "https://www.adupi.org") (ADUPI)
+
+[https://aliansizerowaste.id](https://aliansizerowaste.id "https://aliansizerowaste.id") (AZWI)
+
+Buku dan Artikel Daring: Ada banyak buku dan artikel daring yang memberikan informasi tentang pengelolaan dan daur ulang sampah, termasuk “Pengelolaan Sampah: Buku Pegangan Referensi” dan “Rumah Bebas Sampah” oleh Bea Johnson.
+
+[https://www.rumah.com/berita-properti/2020/7/190093/tips-rumah-zero-waste-alias-bebas-sampah](https://www.rumah.com/berita-properti/2020/7/190093/tips-rumah-zero-waste-alias-bebas-sampah "https://www.rumah.com/berita-properti/2020/7/190093/tips-rumah-zero-waste-alias-bebas-sampah")
+
+Video YouTube: Ada juga banyak video informatif yang tersedia di YouTube yang menjelaskan proses pemilahan dan daur ulang sampah rumah tangga. Bagi kalian yang lebih suka mendengar dan melihat daripada membaca, inilah salah satu alternatif untuk kalian!
+
+[https://www.youtube.com/@dinaslingkunganhidupkotajo266](https://www.youtube.com/@dinaslingkunganhidupkotajo266 "https://www.youtube.com/@dinaslingkunganhidupkotajo266")
+
+[https://www.youtube.com/watch?v=Um4-gq6QC6c](https://www.youtube.com/watch?v=Um4-gq6QC6c "https://www.youtube.com/watch?v=Um4-gq6QC6c")
