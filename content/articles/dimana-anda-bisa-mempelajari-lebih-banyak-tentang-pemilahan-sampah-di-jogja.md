@@ -1,14 +1,11 @@
 ---
 title: Dimana anda bisa mempelajari lebih banyak tentang pemilahan sampah di Jogja?
-description: Alkisah, ada sebuah desa kecil bernama Lembah Hijau. Penduduk Lembah
-  Hijau hidup sederhana, dikelilingi oleh hutan hijau yang rimbun, perbukitan, dan
-  sungai yang berkilauan. Mereka adalah komunitas yang bahagia dan damai, selalu bekerja
-  sama untuk membuat desa mereka menjadi tempat yang lebih baik.
+description: ''
 author: Natanael Kevin A (457645)
-image: "/assets/kevin_1.png"
+image: ''
 
 ---
-Dimana anda bisa mempelajari lebih banyak tentang pemilahan sampah di Jogja?
+## Dimana anda bisa mempelajari lebih banyak tentang pemilahan sampah di Jogja?
 
 By Natanael Kevin A (457645)
 
