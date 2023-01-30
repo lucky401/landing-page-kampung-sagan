@@ -8,29 +8,22 @@ author: Natanael Kevin A (457645)
 image: "/assets/kevin_1.png"
 
 ---
-# Sebuah Kisah Tentang Manusia dan Sampah
+# **Pentingnya Memilah Sampah: Langkah-Langkah nya!**
 
 By Natanael Kevin A (457645)
 
-![](/images/kevin_1.png)
+![](/images/kevin8.png)
 
-Alkisah, ada sebuah desa kecil bernama Lembah Hijau. Penduduk Lembah Hijau hidup sederhana, dikelilingi oleh hutan hijau yang rimbun, perbukitan, dan sungai yang berkilauan. Mereka adalah komunitas yang bahagia dan damai, selalu bekerja sama untuk membuat desa mereka menjadi tempat yang lebih baik.
+Memilah sampah rumah tangga merupakan langkah penting dalam mempromosikan kehidupan yang berkelanjutan dan mengurangi jumlah sampah yang dikirim ke tempat pembuangan sampah. Dengan pertumbuhan populasi dan peningkatan konsumsi, semakin penting untuk memastikan bahwa sampah rumah tangga dipilah dan didaur ulang dengan benar. Proses ini tidak hanya membantu mengurangi limbah tetapi juga menghemat sumber daya, mengurangi polusi, dan melindungi lingkungan.
 
-Namun, seiring pertumbuhan desa, jumlah sampah yang dihasilkan oleh warganya juga meningkat. Masyarakat Lembah Hijau mulai menyadari bahwa limbah mereka mempengaruhi keindahan dan kemurnian tanah mereka. Sungai yang dulu berkilau kini keruh dan penuh sampah, dan hutan hijau subur digantikan tumpukan sampah.
+Ada berbagai jenis limbah rumah tangga, termasuk kertas, gelas, plastik, logam dan limbah makanan. Masing-masing jenis limbah ini memerlukan metode pembuangan dan daur ulang yang berbeda. Kertas, misalnya, dapat didaur ulang menjadi produk kertas baru, sedangkan kaca dapat dilebur dan digunakan kembali untuk membuat barang kaca baru. Plastik dan logam juga dapat didaur ulang dan digunakan untuk membuat berbagai produk. Limbah makanan, di sisi lain, dapat dibuat kompos dan digunakan sebagai pupuk alami untuk tanaman.
 
-![](/images/kevin_2.png)
+Langkah pertama dalam memilah sampah rumah tangga adalah memisahkan bahan yang dapat didaur ulang dari bahan yang tidak dapat didaur ulang. Hal ini dapat dilakukan dengan menggunakan wadah terpisah untuk setiap jenis sampah. Misalnya wadah untuk kertas, wadah untuk kaca, dan sebagainya. Hal ini memudahkan perusahaan pengelola limbah untuk mengambil limbah dan mendaur ulangnya dengan benar.
 
-Penduduk desa sangat prihatin tentang dampak limbah mereka terhadap lingkungan dan kesehatan mereka. Mereka tahu bahwa mereka perlu mengambil tindakan untuk mengatasi masalah ini. Maka, mereka membentuk panitia untuk mencari solusi.
+![](/images/kevin9.png)
 
-  
-![](/images/kevin_3.png)
+Penting juga untuk membersihkan dan menyiapkan bahan yang dapat didaur ulang dengan benar sebelum menempatkannya di tempat sampah daur ulang. Ini termasuk membuang makanan atau kontaminan lainnya, membilas wadah, dan memecah barang-barang besar menjadi potongan-potongan kecil. Dengan menyiapkan bahan yang dapat didaur ulang dengan benar, proses daur ulang akan lebih efisien dan efektif.
 
-Panitia mengusulkan rencana untuk memilah dan mendaur ulang sampah rumah tangga. Mereka mengajak warga Lembah Hijau untuk memilah sampah mereka menjadi beberapa kategori, seperti sampah kertas, kaca, plastik, dan makanan. Mereka juga menyiapkan tempat sampah daur ulang di sekitar desa untuk memudahkan masyarakat mendaur ulang sampah mereka.
+Selain memilah sampah rumah tangga, ada juga langkah yang bisa dilakukan untuk mengurangi jumlah sampah yang dihasilkan sejak awal. Hal ini dapat dilakukan dengan mempraktikkan kebiasaan sederhana seperti menggunakan tas, botol air, dan wadah yang dapat digunakan kembali, serta mengurangi penggunaan barang sekali pakai seperti alat makan plastik dan sedotan. Selain itu, membeli produk yang terbuat dari bahan daur ulang dan membuat kompos sampah makanan juga dapat membantu mengurangi jumlah sampah yang dikirim ke tempat pembuangan sampah.
 
-![](/images/kevin_4.png)
-
-Orang-orang di Lembah Hijau bertekad untuk membuat perbedaan dan segera, usaha mereka membuahkan hasil. Sungai-sungai yang dulu keruh kini jernih, tumpukan sampah menghilang, dan hutan hijau subur kembali tumbuh subur. Penduduk desa bangga dengan apa yang telah mereka capai dan berterima kasih atas dampak positifnya terhadap kesehatan dan lingkungan mereka.
-
-![](/images/kevin_5.png)
-
-Sejak hari itu, penduduk Lembah Hijau terus memilah dan mendaur ulang sampah mereka, dan desa mereka tetap menjadi komunitas yang indah dan berkembang dari generasi ke generasi. Mereka telah belajar bahwa pemborosan bukan hanya masalah, tetapi kesempatan untuk melindungi tanah, kesehatan, dan masa depan mereka. Jadi, kisah Lembah Hijau berfungsi sebagai pengingat bagi semua orang bahwa tindakan kita, sekecil apa pun, dapat berdampak besar pada dunia di sekitar kita.
+Kesimpulannya, memilah sampah rumah tangga adalah langkah sederhana namun penting dalam mempromosikan kehidupan yang berkelanjutan dan melindungi lingkungan. Dengan memilah dan mendaur ulang limbah dengan benar, kita dapat melestarikan sumber daya, mengurangi polusi, dan membantu melindungi planet ini untuk generasi mendatang. Dengan mengambil langkah-langkah ini, kita semua dapat berperan dalam menciptakan dunia yang lebih bersih dan berkelanjutan.
