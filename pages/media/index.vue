@@ -11,10 +11,17 @@
       </v-row>
       <v-row class="mx-0">
         <v-col v-for="article in articles" :key="article.slug" cols="12" md="4">
-          <v-card class="elevation-12" :to="`/media/${article.slug}`">
-            <v-img :src="article.image"></v-img>
+          <v-card
+            class="elevation-12 mb-8"
+            :to="`/media/${article.slug}`"
+            min-height="456"
+          >
+            <v-img max-height="300px" :src="article.image"></v-img>
             <v-card-title>{{ article.title }}</v-card-title>
-            <v-card-text>{{ article.description }}</v-card-text>
+            <v-card-subtitle>{{ article.author }}</v-card-subtitle>
+            <v-card-text class="media__simple_desc">{{
+              article.description
+            }}</v-card-text>
           </v-card>
         </v-col>
       </v-row>
@@ -33,3 +40,12 @@ export default {
   },
 };
 </script>
+
+<style>
+.media__simple_desc {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 80ch;
+}
+</style>

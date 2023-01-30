@@ -1,6 +1,6 @@
 <template>
   <v-app-bar app fixed elevation="0" class="navbar__content">
-    <nuxt-link to="/">
+    <nuxt-link to="/" class="navbar__link">
       <v-toolbar-title class="navbar__title"> Kampung Sagan </v-toolbar-title>
     </nuxt-link>
   </v-app-bar>
@@ -25,5 +25,9 @@ export default {
   text-align: center;
   font-family: Pacifico, cursive;
   transition: font-size 0.5s ease;
+}
+
+.navbar__link {
+  text-decoration: none;
 }
 </style>
