@@ -14,7 +14,7 @@
           <v-card
             class="elevation-12 mb-8"
             :to="`/media/${article.slug}`"
-            min-height="456"
+            min-height="500"
           >
             <v-img max-height="300px" :src="article.image"></v-img>
             <v-card-title>{{ article.title }}</v-card-title>

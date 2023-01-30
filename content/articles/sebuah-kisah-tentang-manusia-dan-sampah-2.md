@@ -1,15 +1,16 @@
 ---
 title: 'Pentingnya Memilah Sampah: Langkah-Langkah nya!'
-description: Memilah sampah rumah tangga merupakan langkah penting dalam mempromosikan
+description:
+  Memilah sampah rumah tangga merupakan langkah penting dalam mempromosikan
   kehidupan yang berkelanjutan dan mengurangi jumlah sampah yang dikirim ke tempat
   pembuangan sampah. Dengan pertumbuhan populasi dan peningkatan konsumsi, semakin
   penting untuk memastikan bahwa sampah rumah tangga dipilah dan didaur ulang dengan
   benar. Proses ini tidak hanya membantu mengurangi limbah tetapi juga menghemat sumber
   daya, mengurangi polusi, dan melindungi lingkungan.
 author: Natanael Kevin A (457645)
-image: "/assets/kevin_1.png"
-
+image: '/images/kevin8.png'
 ---
+
 # **Pentingnya Memilah Sampah: Langkah-Langkah nya!**
 
 By Natanael Kevin A (457645)

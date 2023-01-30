@@ -1,12 +1,13 @@
 ---
 title: 'Peran UMKM dalam Ekonomi Indonesia: Ayo Ciptakan Industri Rumah Tangga Mumpuni!'
-description: Usaha Kecil dan Menengah (UKM) memainkan peran penting dalam perekonomian,
+description:
+  Usaha Kecil dan Menengah (UKM) memainkan peran penting dalam perekonomian,
   berkontribusi secara signifikan terhadap pertumbuhan ekonomi, penciptaan lapangan
   kerja, dan inovasi.
 author: Natanael Kevin A (457645)
-image: "/assets/kevin_1.png"
-
+image: '/images/kevin_5.png'
 ---
+
 ## **Peran UMKM dalam Ekonomi Indonesia: Ayo Ciptakan Industri Rumah Tangga Mumpuni!**
 
 By Natanael Kevin A (457645)
