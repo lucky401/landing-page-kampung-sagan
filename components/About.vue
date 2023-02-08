@@ -7,7 +7,7 @@
       Kampung Sagan.
     </p>
     <p class="about__text">
-      <em> ChatGPT – Sesepuh Kampung Sagan </em>
+      <em> Djiman – Sesepuh Kampung Sagan </em>
     </p>
   </v-sheet>
 </template>
